@@ -1,0 +1,11 @@
+{"// path: public/manifest.json": "",
+ "name": "SOCKET — Ethiopian EV Charging Finder",
+ "short_name": "SOCKET",
+ "start_url": "./index.php",
+ "display": "standalone",
+ "background_color": "#0a0a0b",
+ "theme_color": "#0a84ff",
+ "description": "Find, filter, and pay for EV charging stations across Ethiopia.",
+ "icons": [],
+ "lang": "en"
+}
